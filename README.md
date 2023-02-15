@@ -14,6 +14,7 @@ Follow the installation instructions of GO for your system on https://go.dev.
 ### Step 2.
 Setup a new bot on https://discord.com/developers/applications.
   - Bot -> Generate Bot Token
+ 
 Sign up for a new account on https://openai.com
   - Provile Icon -> View API Keys -> Generate API Keys
 

@@ -2,7 +2,7 @@
 ## Elon Musk AI Replica Discord Chat Bot.
 
 ## Simply add it to your server: http://discord.me/elonmusk
-https://discord.gg/YMdtBaSj Join 73labs Discord
+Join [73labs Discord](https://discord.gg/YMdtBaSj)
 
 - Based on OpenAI's GPT-3 Davinvi language model.
 - Uses the OpenAI completion API to get the responses.

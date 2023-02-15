@@ -16,7 +16,7 @@ Setup a new bot on https://discord.com/developers/applications.
   - Bot -> Generate Bot Token
  
 Sign up for a new account on https://openai.com
-  - Provile Icon -> View API Keys -> Generate API Keys
+  - Profile Icon -> View API Keys -> Generate API Keys
 
 ### Step 3.
 Create .env file in the project root. Replace the placeholders with your tokens and save.

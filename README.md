@@ -9,7 +9,7 @@
 
 ### Step 1.
 Clone the repository wherever you like.
-Follow the installation instructions of GO for your system on go.dev.
+Follow the installation instructions of GO for your system on https://go.dev.
 
 ### Step 2.
 Setup a new bot on https://discord.com/developers/applications.

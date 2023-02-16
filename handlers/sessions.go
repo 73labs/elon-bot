@@ -1,11 +1,10 @@
 package handlers
 
 import (
+	"github.com/bwmarrin/discordgo"
 	"log"
 	"seventythree/chatbot/commands"
 	"seventythree/chatbot/sessions"
-
-	"github.com/bwmarrin/discordgo"
 )
 
 var sessionCommandMap = commands.Map[SessionCommands]{

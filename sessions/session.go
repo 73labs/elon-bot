@@ -33,6 +33,7 @@ type Session struct {
 	Covered         time.Duration
 	SentCount       uint
 	SessionLevel    uint8
+	UsersInChat     []DiscordEntity
 	timedOut        bool
 	messages        []Message
 	mutex           sync.Mutex
@@ -50,6 +51,7 @@ func NewSession(creator DiscordEntity, channel DiscordEntity, guild DiscordEntit
 		LastInteraction: now,
 		messages:        make([]Message, SessionDefaultMessageLimit),
 		mutex:           sync.Mutex{},
+		UsersInChat:     []DiscordEntity{creator},
 	}
 }
 

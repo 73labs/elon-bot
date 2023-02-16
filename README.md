@@ -4,7 +4,7 @@
 ## Simply add it to your server: http://discord.me/elonmusk
 Join [73labs Discord](https://discord.gg/YMdtBaSj)
 
-- Based on OpenAI's GPT-3 Davinvi language model.
+- Based on OpenAI's GPT-3 Davinci language model.
 - Uses the OpenAI completion API to get the responses.
 - Keeps conversation context in sessions.
 
